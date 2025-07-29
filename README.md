@@ -42,3 +42,55 @@ RhythmAI is an AI-powered full-stack application that classifies ECG (Electrocar
 
 ## 🏗️ System Architecture
 
+Frontend (React + TailwindCSS)
+⬇️
+Backend (Flask + TensorFlow)
+⬇️
+Deep Learning Model (.h5)
+
+
+
+- **Model**: CNN trained on ECG image data
+- **Frontend**: React with styled components and animated UI
+- **Backend**: Flask REST API for predictions
+- **Deployment-ready**: Works locally or via Render/Netlify
+
+---
+
+## 📁 Project Structure
+
+RhythmAI/
+│
+├── frontend/
+│ └── ECGClassifier.jsx (main UI component)
+│
+├── backend/
+│ ├── app.py (Flask backend)
+│ └── model/
+│ └── my_ECG_CNN.h5 (trained CNN model)
+│
+└── README.md
+Start the Flask server:
+
+python app.py
+Start the development server:
+
+
+npm run dev
+🧠 Model Information
+Input: 128x128 ECG image
+
+Output: Predicted heart rhythm class + confidence %
+
+Framework: TensorFlow/Keras
+
+Architecture: CNN with dense layers
+
+🔬 The model is designed for educational and research use only
+⚠️ Disclaimer
+This tool is not a medical device. It is intended for educational and research purposes only. For any medical diagnosis, please consult a licensed healthcare professional.
+👨‍💻 Author
+Rohith Raj V
+📍 GitHub: rohithrajv007
+
+
