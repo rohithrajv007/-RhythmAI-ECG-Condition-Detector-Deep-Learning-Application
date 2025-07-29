@@ -24,21 +24,19 @@ RhythmAI is an AI-powered full-stack application that classifies ECG (Electrocar
 
 
 
-### 🧘 Dashboard View
+### 🧘 Output View
 
 ![ECG Upload Preview](https://github.com/rohithrajv007/-RhythmAI-ECG-Condition-Detector-Deep-Learning-Application/raw/main/Screenshot%202025-07-29%20155651.png)
 
 
 
----
 
-### 📤 ECG Upload & Preview
-> _📸 Insert a screenshot here_
 
----
 
-### 📈 Prediction Output with Confidence
-> _📸 Insert a screenshot here_
+### 🎯 Prediction Result
+
+![Prediction Result](https://github.com/rohithrajv007/-RhythmAI-ECG-Condition-Detector-Deep-Learning-Application/raw/main/Screenshot%202025-07-29%20155714.png)
+
 
 ---
 
